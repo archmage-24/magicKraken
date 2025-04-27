@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magicKraken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=archmage-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archmage-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -89,18 +89,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=magicKraken&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" style="margin-top: 20px" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=archmage-24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" style="margin-top: 20px" height="150" alt="trophy graph"  />
 </div>
 
 ###
 -->
 
-<img src="https://github.com/magicKraken/magicKraken/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/archmage-24/archmage-24/blob/output/snake.svg" alt="Snake animation" />
 
 
 ###
-
+<!--
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=magicKraken&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/magicKraken/magicKraken?color=black&logo=github" />
 </p>
+-->
